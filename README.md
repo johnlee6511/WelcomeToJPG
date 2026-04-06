@@ -2,6 +2,8 @@
 
 WelcomeToJPG is a macOS desktop app for converting multiple images to JPG in one place.
 
+[Download the latest DMG](https://github.com/johnlee6511/WelcomeToJPG/releases/tag/v1.0.0)
+
 ## Features
 
 - Convert `HEIC`, `PNG`, `JPEG`, and other supported image formats to JPG
